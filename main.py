@@ -45,3 +45,4 @@ for i in range(iterations):
 print(f'Смешанная стратегия игрока A: {a_used_strats / iterations}')
 print(f'Смешанная стратегия игрока B: {b_used_strats / iterations}')
 print(f'Цена игры: {value:<8.2f}')
+print("hello")
